@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "JPWP9NJRE7.br.com.midway.MidwayCartoes",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
